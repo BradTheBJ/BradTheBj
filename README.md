@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🖥️ BradBenJoya.config
 
-<!--
-**BradTheBJ/BradTheBj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👀 Visitors Count
+![Visitor Count](https://profile-counter.glitch.me/BradTheBJ/count.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ My Skills ⚡
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-orange?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=blue)
+![AI](https://img.shields.io/badge/AI-purple?logo=ai&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-black?logo=davinciresolve&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
+
+---
+
+## 👨‍💻 Some Stats 👨‍💻
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BradTheBJ&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BradTheBJ&layout=compact&theme=radical)
+
+---
+
+## 🏆 Trophies 🏆
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BradTheBJ&theme=radical&no-frame=true&no-bg=true&margin-w=5)
+
+---
+
+## 📧 Contact Me 📧
+📫 bradbenjoya6@gmail.com
