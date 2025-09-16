@@ -28,7 +28,7 @@
 ---
 
 ## 🏆 Trophies 🏆
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BradTheBJ&theme=radical&no-frame=true&no-bg=true&margin-w=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BradTheBJ&theme=radical&no-frame=false&no-bg=false&margin-w=5&column=5)
 
 ---
 
